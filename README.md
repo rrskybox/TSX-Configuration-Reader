@@ -1,5 +1,5 @@
 # TSX-Configuration-Reader
-Viewer for TheSkyX Profile Confguration Files
+Viewer for TheSkyX Profile Configuration Files
 
 TSX Configuration Reader Description
 
