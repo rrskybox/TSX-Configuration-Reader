@@ -1,5 +1,8 @@
-﻿using IniParser;
+﻿//IniParser is a helpful little library I found in a NuGet -- Ini-Parser by Ricardo Hernandez.
+//Just search and load it in the VS Menu: Tools -> NuGet Package Manager -> Manage NuGet Package Manager for Solution...
+using IniParser;
 using IniParser.Model;
+
 using System;
 using System.Collections.Generic;
 using System.Deployment.Application;
